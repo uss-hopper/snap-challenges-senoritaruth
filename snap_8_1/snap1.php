@@ -15,4 +15,6 @@
 			<li class="my-item">5</li>
 			<li class="my-item">6</li>
 		</ul>
+		<p>The width of the box is: 210px.</p>
+		<p>The height of the box is: 170px.</p>
 	</body>
