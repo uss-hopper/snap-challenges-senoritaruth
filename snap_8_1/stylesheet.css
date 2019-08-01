@@ -22,6 +22,8 @@ li.my-item  {
 
 ul.my-list2 {
 	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
 	padding: 0;
 	margin: 0;
 	list-style: none;
